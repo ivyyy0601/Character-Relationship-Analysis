@@ -1,0 +1,1 @@
+PageRank algorithms . Our goal is to provide more accurate summaries for long texts, such as detective fiction, helping readers better understand the plot and characters. Additionally, by constructing character relationship diagrams, we aim to enhance the reading experience by clarifying character evolution and plot development.
