@@ -1,4 +1,4 @@
-# 📚 Character Relationship Network for Detective Fiction  
+# 📚 Character Relationship Network for Fiction  
 A NLP + Graph Analysis project to uncover hidden relationships, plot structures, and character importance across multiple detective novels.
 
 This project uses **Named Entity Recognition**, **Sentiment Analysis**, **Co-occurrence Graphs**, and **PageRank** to automatically build **character relationship networks** from raw novel text.  
